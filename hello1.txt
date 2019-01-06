@@ -1,2 +1,3 @@
 1line hello git
-2line second hiq
+2line second hi!
+3line third good morning
